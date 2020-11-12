@@ -6,6 +6,6 @@
 
 You can find me on [![LinkedIn][1]][2].
 
-[1]:https://github.com/avanti-bhandarkar/avanti-bhandarkar/blob/main/li.png
+[1]:https://github.com/avanti-bhandarkar/avanti-bhandarkar/blob/main/logo.png
 
 [2]: https://www.linkedin.com/in/avantibhandarkar/
