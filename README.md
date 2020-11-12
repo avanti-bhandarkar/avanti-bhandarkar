@@ -1,4 +1,4 @@
-![Avanti's Github Stats](https://github-readme-stats.vercel.app/api?username=avanti-bhandarkar&show_icons=true&theme=nightowl)
+![Avanti's Github Stats](https://github-readme-stats.vercel.app/api?username=avanti-bhandarkar&show_icons=true&count_private=true&theme=nightowl)
 
 You can also find me on [![LinkedIn][1]][2].
 
