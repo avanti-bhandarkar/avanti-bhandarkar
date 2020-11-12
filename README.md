@@ -4,14 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avanti-bhandarkar&theme=nightowl&layout=compact)
 
-<!-- Actual text -->
+You can find me on [![LinkedIn][1]][2].
 
-You can find me on [![LinkedIn][2.2]][3].
+[1]:https://github.com/avanti-bhandarkar/avanti-bhandarkar/blob/main/li.png
 
-<!-- Icons -->
-
-[2.2]:https://github.com/avanti-bhandarkar/avanti-bhandarkar/blob/main/li.png
-
-<!-- Links to your social media accounts -->
-
-[3]: https://www.linkedin.com/in/avantibhandarkar/
+[2]: https://www.linkedin.com/in/avantibhandarkar/
