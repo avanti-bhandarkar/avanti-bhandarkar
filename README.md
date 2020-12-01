@@ -1,11 +1,5 @@
 Hi, I'm Avanti, a Computer Vision and Machine Learning enthusiast from India.
 
-Currently:
-
-- working on 3D modelling of food grains
-- developing a surgical workflow analyzer
-- learning Javascript
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=avanti-bhandarkar&show_icons=true&count_private=true&theme=vision-friendly-dark" />
 </a>
